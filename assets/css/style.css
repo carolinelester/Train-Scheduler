@@ -1,0 +1,29 @@
+.container {
+    width: 80%;
+    color:#253c68de !important;
+    font-family: 'Inconsolata', monospace !important;
+}
+
+.jumbotron{
+	background-color: #253c68de !important;
+    color: whitesmoke;
+	
+}
+
+.card {
+    padding: 10px
+}
+
+button {
+    background-color: #253c68de !important;
+    color: whitesmoke;
+}
+
+button:hover {
+    background-color: #121d31de !important;
+}
+
+.card {
+    margin-bottom: 10px;
+    
+}
